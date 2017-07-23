@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+	<post>
+		<date>July 9, 2017</date>
+		<title>T is for Terminal, Tools, and Typing</title>
+		<text>One of the first challenges I’m finding in getting into the developer workflow is keeping my fingers off the laptop’s trackpad.  This means staying away from Apple’s Finder and getting to know the terminal.  As I get a little more muscle memory developed, I’m finding that I can think and type out simple commands, almost like saying magic words and what I want on a web page or a window appears into being.</text>
+	</post>
+	<post>
+		<date>July 16, 2017</date>
+		<title>P is For Productivity and Pomodoro</title>
+		<text>I’ve finished my first full week of developer bootcamp at Nashville Software School and so far, I’ve got much to show for it.  I’ve built a portfolio site, I’ve taken the CSS Zen Garden challenge, and I’ve even made a working Fibonacci number generator, a coin counter, and a temperature converter should you be in need of such things.  Most significantly, I worked on a four-person team to build a fictional company page, building and calling data objects for a products page in addition to resolving layout and design issues that go into building a site.  Most importantly, I got my feet wet with the process of using version control in a team environment, Git and Github in our case.  There were plenty of mistakes to learn from, accidentally working on the master branch, creating complicated merge conflicts, and suddenly losing an hour or two of work by getting ahead of the master branch without merging.  After getting a taste for what could go wrong, my team and I eventually got the workflow in order, thankful to get a chance to make all of these mistakes now instead of in a real-life production setting.</text>
+	</post>
+	<post>
+		<date>July 22, 2017</date>
+		<title>G is for Grit and Grind</title>
+		<text>I’m finding that writing code can be a lot like writing prose.  In both writing and code there is the paralysis of staring at the blank page.  I’ve had a few of these moments this week.
+
+		My biggest challenge this week resulted in the text tree that you see above.  The challenge was to “grow a tree” with a character and a specified height.  It is still at a more basic level as far as algorithm challenges go, but it was definitely right in my zone of proximal development and a fun way to play with nested loops in javascript.</text>
+	</post>
+</posts>
